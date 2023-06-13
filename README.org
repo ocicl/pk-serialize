@@ -4,7 +4,7 @@ Common Lisp Serialization
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/plkrueger/pk-serialize.git   |
-| commit  | {"messa  |
+| commit  | a215221  |
 | systems | pk-serialize |
 |---------+-------------------------------------------|
 
